@@ -17,13 +17,14 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
+  - python=3.6
   - pytorch=2.0
   - numpy
-  - scipy
+  - scipy=1.2.1
   - pip
   - pip:
       - torchvision>=0.15
       - dominate
       - visdom
       - Pillow>=9.0
+

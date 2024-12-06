@@ -1,4 +1,4 @@
-dataDir=/Users/htc/Desktop/BrownU/CS1430_Projects/PhotoSketch
+dataDir=/Users/htc/Desktop/BrownU/CS1430_Projects/csci1430-final-project
 
 python test.py \
     --name default \

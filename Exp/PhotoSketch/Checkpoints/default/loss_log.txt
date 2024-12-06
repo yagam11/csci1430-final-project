@@ -1,0 +1,5 @@
+================ Training Loss (Fri Dec  6 17:56:08 2024) ================
+================ Training Loss (Fri Dec  6 17:59:07 2024) ================
+================ Training Loss (Fri Dec  6 18:04:14 2024) ================
+(epoch: 1, iters: 100, time: 3.065) G_GAN: 1.350 G_L1: 43.451 D_real: 0.442 D_fake: 0.537 
+(epoch: 1, iters: 200, time: 3.480) G_GAN: 1.135 G_L1: 32.893 D_real: 0.602 D_fake: 0.485 
