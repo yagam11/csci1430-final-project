@@ -12,4 +12,4 @@ python test_pretrained.py \
     --input_nc 3 \
     --output_nc 1 \
     --which_model_netG resnet_9blocks \
-    --no_dropout \
+    --no_dropout
