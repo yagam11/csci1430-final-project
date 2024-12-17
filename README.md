@@ -1,4 +1,8 @@
 # csci1430-final-project
+
+## Presentation Slide Link
+https://docs.google.com/presentation/d/1Y0CXHmetkqMd_Myezfs0UvE0XAIUnZgZ-8pADxG4lZA/edit?usp=drive_link
+
 ## One-line installation (with Conda environments)
 `conda env create -f environment.yml`
 
